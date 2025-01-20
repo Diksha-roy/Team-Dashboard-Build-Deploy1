@@ -83,6 +83,10 @@ The dashboard is designed for managing tasks and teams, and works seamlessly acr
      ```
 
    - Choose **Yes** for TypeScript, Tailwind CSS, App Router, and customizing import alias for a cleaner project structure.
+  
+
+  
+
 
 
     
