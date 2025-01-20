@@ -1,5 +1,5 @@
 # Team-Dashboard:Build-Deploy
-
+### Overview
 This document outlines the process for creating and managing a **Team Management Dashboard**. The project utilizes **Next.js**, **TypeScript**, and **Tailwind CSS**. The application is packaged using **Docker** and will be hosted on **Vercel**.
 
 The dashboard is designed for managing tasks and teams, and works seamlessly across all devices. It is a fully functional and deployable application.
