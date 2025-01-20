@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-1. [Overview](#overview)
+1. [Overview](#overvhiew)
 2. [Project Requirements](#project-requirements)
    - [Dashboard Features](#dashboard-features)
      - [Home Page](#home-page)
