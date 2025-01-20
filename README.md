@@ -1,1 +1,28 @@
 # Team-Dashboard-Build-Deploy1
+
+# Table of Contents
+
+1. [Overview](#overview)
+2. [Project Requirements](#project-requirements)
+   - [Dashboard Features](#dashboard-features)
+     - [Home Page](#home-page)
+     - [Task Management Page](#task-management-page)
+   - [Technical Requirements](#technical-requirements)
+     - [TypeScript](#typescript)
+     - [Next.js](#nextjs)
+     - [Tailwind CSS](#tailwind-css)
+     - [Docker](#docker)
+     - [Deployment](#deployment)
+3. [Installation Steps](#installation-steps)
+   - [Step 1: Open VS Code & Set Up Your Development Environment](#step-1-open-vs-code--set-up-your-development-environment)
+   - [Step 2: Initialize the Project](#step-2-initialize-the-project)
+   - [Step 3: Install Dependencies](#step-3-install-dependencies)
+   - [Step 4: Set Up Docker](#step-4-set-up-docker)
+   - [Step 5: Configure Git and Push to GitHub](#step-5-configure-git-and-push-to-github)
+4. [Development Code](#development-code)
+5. [Deployment Steps](#deployment-steps)
+6. [Additional Notes](#additional-notes)
+7. [Useful Commands](#useful-commands)
+8. [Links](#links)
+   - [Live App](#live-app)
+   - [Source Code](#source-code)
