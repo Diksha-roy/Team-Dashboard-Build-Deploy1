@@ -31,19 +31,19 @@ The dashboard is designed for managing tasks and teams, and works seamlessly acr
     - [Live App](#live-app)
     - [Source Code](#source-code)
    
+### Prerequisites:
+1. **Web Development Basics**: For customizing the app.
+2. **Node.js & npm**: To run the app.
+3. **TypeScript**: To ensure error-free code.
+4. **Next.js**: For routing and rendering.
+5. **Tailwind CSS**: For responsive design.
+6. **Docker**: To run the app in any environment.
+7. **Git & GitHub**: For version control.
+8. **Vercel**: For hosting the app.
+9. **Visual Studio Code**: For writing and editing the project code.
 
-## Prerequisites
-
-    Web Development Basics: For customizing the app.
-    Node.js & npm: To run the app.
-    TypeScript: To ensure error-free code.
-    Next.js: For routing and rendering.
-    Tailwind CSS: For responsive design.
-    Docker: To run the app in any environment.
-    Git & GitHub: For version control.
-    Vercel: For hosting the app.
-    
 ## Setting Up the Project
+
 
     
 
