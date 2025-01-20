@@ -30,6 +30,22 @@ The dashboard is designed for managing tasks and teams, and works seamlessly acr
 10. [Links](#links)
     - [Live App](#live-app)
     - [Source Code](#source-code)
+   
+
+## Prerequisites
+
+    Web Development Basics: For customizing the app.
+    Node.js & npm: To run the app.
+    TypeScript: To ensure error-free code.
+    Next.js: For routing and rendering.
+    Tailwind CSS: For responsive design.
+    Docker: To run the app in any environment.
+    Git & GitHub: For version control.
+    Vercel: For hosting the app.
+    
+## Setting Up the Project
+
+    
 
 
 
