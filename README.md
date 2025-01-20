@@ -47,7 +47,42 @@ The dashboard is designed for managing tasks and teams, and works seamlessly acr
 | **Visual Studio Code**  | Visual Studio Code 1.x.x or latest | For writing and editing the project code |
 
 
-## Setting Up the Project
+### Setting Up the Project
+
+1. **Create a Project Directory**
+   - Open your terminal and create a directory for the project:
+     ```bash
+     mkdir <your-project-name>
+     cd <your-project-name>
+     ```
+
+2. **Open Visual Studio Code**
+   - Open the directory in Visual Studio Code using the following command:
+     ```bash
+     code -r <your-project-name>
+     ```
+
+3. **Create a Next.js Application**
+   - To create the Next.js app with TypeScript, Tailwind CSS, and other configurations, run:
+     ```bash
+     npx create-next-app@latest
+     ```
+
+4. **Installation Prompts**
+   - During the installation process, you will be prompted to select the following options:
+     ```
+     What is your project named? my-app
+     Would you like to use TypeScript? Yes / No
+     Would you like to use ESLint? Yes / No
+     Would you like to use Tailwind CSS? Yes / No
+     Would you like your code inside a `src/` directory? Yes / No
+     Would you like to use App Router? (recommended) Yes / No
+     Would you like to use Turbopack for `next dev`? Yes / No
+     Would you like to customize the import alias (`@/*` by default)? Yes / No
+     What import alias would you like configured? @/*
+     ```
+
+   - Choose **Yes** for TypeScript, Tailwind CSS, App Router, and customizing import alias for a cleaner project structure.
 
 
     
